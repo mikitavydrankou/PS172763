@@ -23,10 +23,10 @@ int main() {
 //    printf("%d\n", rok-1);
 
     //zad4
-//    int l1, l2, l3;
+//    float l1, l2, l3;
 //    float srednia;
 //    printf("Podaj liczby: ");
-//    scanf("%d %d %d", &l1, &l2, &l3);
+//    scanf("%f %f %f", &l1, &l2, &l3);
 //    srednia = (l1 + l2 + l3)/3;
 //    printf("srednia: %f", srednia);
 
