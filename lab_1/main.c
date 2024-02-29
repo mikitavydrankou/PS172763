@@ -71,7 +71,7 @@ int main() {
     //zad13
 //    float a;
 //    scanf("%f", &a);
-//    float liczba = abs(a);
+//    float liczba = fabs(a);
 //    printf("%f", liczba);
 
     //zad14
