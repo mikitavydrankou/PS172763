@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int count_negative_elements(int n, int arr[n]){
+int count_negative_elements(int n, int arr[]){
     int count = 0;
     for(int i = 0; i < n; i++){
         if(arr[i]<0){
